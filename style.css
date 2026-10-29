@@ -92,3 +92,38 @@ body { overflow-x: hidden; }
 @media(max-width:900px){.header-inner{padding:0 23px}.main-nav{gap:20px;font-size:11px}.hero{padding-left:23px;padding-right:23px;gap:0}.hero-copy{padding-left:8px}.hero-art{transform:scale(.9)}.steps-grid{grid-template-columns:repeat(2,1fr)}.feature-band{gap:25px}.why-inner{gap:55px}.faq-section{gap:38px}.light-grid{gap:35px}.data-chip{font-size:8px}}
 @media(max-width:650px){html{scroll-padding-top:70px}.site-header{height:68px}.header-inner{padding:0 19px}.brand{font-size:21px}.brand-mark{width:30px;height:31px;line-height:31px;font-size:24px}.menu-toggle{display:flex;width:42px;height:42px;border:0;background:#f0e3d5;border-radius:50%;flex-direction:column;align-items:center;justify-content:center;gap:5px;cursor:pointer}.menu-toggle span{width:16px;height:1.5px;background:var(--brown);transition:transform .2s}.menu-toggle[aria-expanded="true"] span:first-child{transform:translateY(3.25px) rotate(45deg)}.menu-toggle[aria-expanded="true"] span:last-child{transform:translateY(-3.25px) rotate(-45deg)}.main-nav{display:none;position:absolute;top:67px;left:0;right:0;padding:16px 20px 20px;background:var(--cream);border-bottom:1px solid var(--line);box-shadow:0 15px 20px rgba(55,38,28,.08);flex-direction:column;align-items:stretch;gap:0}.main-nav.is-open{display:flex}.main-nav>a:not(.nav-cta){padding:12px 2px;border-bottom:1px solid #eaded0}.nav-cta{margin-top:12px;text-align:center}.hero{min-height:0;grid-template-columns:1fr;padding:51px 22px 34px;gap:5px}.hero-copy{padding:0}.hero h1{font-size:clamp(47px,13vw,65px);margin-top:17px}.hero-subtitle{font-size:20px}.hero-description{font-size:12px;max-width:390px}.hero-actions{gap:17px}.button{font-size:10px;padding:14px 17px}.hero-note{margin-top:22px}.hero-art{height:445px;transform:scale(.86);transform-origin:top center;margin-bottom:-54px}.hero-art:before{width:370px;height:370px;top:28px}.phone{height:450px;width:230px}.phone-screen{padding:12px 13px}.note-top{right:-20px;top:76px}.note-bottom{left:-20px;bottom:47px}.sun-stamp{left:-6px}.orbit-one{width:420px;height:290px}.orbit-two{width:360px;height:260px}.marquee-track{gap:28px;justify-content:flex-start;animation:marquee 24s linear infinite;width:max-content}.marquee{padding:9px 0}.marquee-track{font-size:16px}@keyframes marquee{to{transform:translateX(-50%)}}.section{padding:75px 21px}.section-heading{margin-bottom:33px}.section-heading h2,.feature-copy h2,.print-copy h2,.about-copy h2{font-size:39px}.section-heading>p{font-size:11px}.steps-grid{gap:10px}.step-card{padding:16px 14px;min-height:252px}.step-card h3{font-size:17px;margin:17px 0 8px}.step-card p{font-size:10px}.step-icon{width:37px;height:37px}.step-illustration{font-size:57px}.feature-band{grid-template-columns:1fr;padding:58px 22px 58px;gap:20px}.feature-art{height:315px;transform:scale(.9);transform-origin:center}.feature-blob{width:270px;height:270px;left:50%;transform:translateX(-50%) rotate(18deg)}.memory-main{left:calc(50% - 110px);width:210px;height:265px}.memory-photo{height:190px}.memory-small{right:calc(50% - 185px);bottom:20px}.feature-scribble{left:calc(50% - 175px);bottom:26px}.feature-copy{max-width:none}.feature-copy h2{font-size:40px}.feature-copy>p{font-size:12px}.feature-points{gap:20px}.pricing-section{padding-top:78px;padding-bottom:73px}.pricing-grid{grid-template-columns:1fr;gap:12px}.price-card{min-height:0;padding:22px}.featured-price{transform:none;order:-1}.price-card ul{padding-bottom:7px}.launch-box{align-items:flex-start;gap:12px;padding:17px 15px;flex-wrap:wrap}.launch-box>div:nth-child(2){min-width:calc(100% - 60px)}.launch-box h3{font-size:17px}.launch-box p{font-size:10px}.launch-total{display:inline-block;margin:3px 0 0}.launch-box>.text-link{margin-left:53px}.pricing-note{font-size:8px}.print-section{grid-template-columns:1fr;padding:60px 22px;gap:4px}.print-copy{padding:0;max-width:none}.book-art{height:350px;transform:scale(.9)}.light-section{padding:78px 21px}.light-grid{grid-template-columns:1fr;gap:10px}.light-visual{height:290px}.orbit-data-1{width:245px;height:245px}.orbit-data-2{width:185px;height:185px}.chip-one{left:calc(50% + 10px);top:24px}.chip-two{right:0;top:117px}.chip-three{left:calc(50% + 5px);bottom:26px}.chip-four{left:0;top:130px}.light-list article{padding:14px 0}.why-section{padding:66px 22px}.why-inner{grid-template-columns:1fr;gap:40px}.why-heading h2{font-size:47px;margin:14px 0}.why-heading p{max-width:340px}.why-item{grid-template-columns:28px 1fr 15px;gap:8px;padding:15px 0}.why-item h3{font-size:16px}.why-item p{font-size:9px}.faq-section{grid-template-columns:1fr;gap:18px;padding:75px 21px}.faq-section .section-heading{margin-bottom:0}.faq-section .section-heading h2{font-size:39px}.faq-list summary{font-size:14px}.faq-list details{padding:14px 0}.faq-list details p{font-size:10px}.about-section{grid-template-columns:1fr;padding:55px 22px 61px;gap:8px}.about-art{height:280px;transform:scale(.92)}.about-copy h2{font-size:39px}.about-copy>p{font-size:11px}.waitlist-section{border-radius:0;padding:61px 20px 58px}.waitlist-section h2{font-size:43px}.waitlist-section>div>p{font-size:11px}.waitlist-form{flex-direction:column;background:transparent;box-shadow:none;gap:8px;border-radius:0}.waitlist-form input{background:#fffaf5;border-radius:30px;padding:15px 17px;width:100%;min-height:46px}.button-dark{width:100%;min-height:45px}.form-note{font-size:8px!important}.site-footer{padding:26px 20px 19px}.footer-top{flex-wrap:wrap;gap:12px}.footer-top>p{font-size:14px;order:3;width:100%}.back-top{margin-left:auto}.footer-bottom{flex-wrap:wrap;gap:9px;font-size:8px}.footer-bottom span:nth-child(2){order:3;width:100%}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}.reveal{opacity:1;transform:none}}
+.logo-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+  object-fit: cover;
+  display: block;
+}
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo-img {
+  height: 38px;
+  width: 38px;
+  border-radius: 22%;
+  object-fit: cover;
+  display: block;
+  flex-shrink: 0;
+}
+
+.logo-img-small {
+  height: 22px;
+  width: 22px;
+  border-radius: 24%;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+.app-logo {
+  display: inline-flex;
+  align-items: center;
+}

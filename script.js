@@ -25,4 +25,5 @@
     }), { threshold: 0.12, rootMargin: '0px 0px -25px 0px' });
     revealItems.forEach(item => observer.observe(item));
   } else revealItems.forEach(item => item.classList.add('is-visible'));
+  
 })();
